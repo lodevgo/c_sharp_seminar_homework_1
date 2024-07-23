@@ -4,14 +4,16 @@ Console.WriteLine("Введите значение a:");
 int firstValue = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите значение b:");
 int secondValue = Convert.ToInt32(Console.ReadLine());
-int max = firstValue; 
-if (max < secondValue)
+if (firstValue < secondValue)
 {
-    Console.WriteLine($"Наибольшее число = {secondValue}, Наименьшее число = {firstValue}");
+    Console.WriteLine("Второче число наибольшее");
 }
-if else
+if (secondValue < firstValue)
 {
-        Console.WriteLine($"Наименьшее число = {secondValue}, Наибольшее число = {firstValue}");
+    Console.WriteLine("Первое число наибольшее");
 }
-
+if (secondValue == firstValue)
+{
+    Console.WriteLine("Числа равны");
+}
     // Console.WriteLine($"a = {firstValue}, b = {secondValue} => Нет");
