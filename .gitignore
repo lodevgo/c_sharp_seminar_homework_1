@@ -1,0 +1,120 @@
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+x64/
+x86/
+build/
+bld/
+[Dd]ebug*/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuget/
+
+# DotCover
+*.dotCover
+
+# Rider
+.idea/
+.idea_modules/
+
+# MacOS specific files
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Project-specific files
+*.user
+*.suo
+*.userosscache
+*.suo
+*.ntvs_analysis.dat
+*.cache
+*.project
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# npm packages
+node_modules/
+
+# Local History for JetBrains IDEs
+.idea/.idea/
+
+# VS Code settings
+.vscode/
+
+# Other files
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.suo
+
+# Web files
+*.css.map
+*.js.map
+*.ts.map
+*.d.ts
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+
+# Local build artifacts
+*.nupkg
+*.snupkg
+*.buildlog
+*.build
+*.rpt
+*.pdb
+*.dll
+*.exe
+*.app
+*.dmg
+
+# Microsoft Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ntvs_analysis.dat
+*.cache
+
+# Team Foundation Server
+.tf/
+
+# Azure DevOps
+.azure/
+
+# Ignore any auto-generated files
+*.generated.*
+*.swp
+
+# Ignore project files that are auto-generated and not needed
+*.g.i.cs
+*.g.cs
+*.g.vb
+*.g.d.ts
+*.g.obj
